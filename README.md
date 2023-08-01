@@ -21,8 +21,3 @@
   <!-- NODE.JS --> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   <br>
 </div>
-
-
-<br>
-
-  ![Snake animation](https://github.com/saguisagu/saguisagu/blob/output/github-contribution-grid-snake.svg)
